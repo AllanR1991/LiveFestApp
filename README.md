@@ -103,17 +103,14 @@ Com o LiveFest, encontrar eventos é tão fácil quanto tocar na tela. Esteja vo
 ## Autores
 
 - [<img src="https://github.com/Lucca-gOn/vitalhubteamwork/assets/22855740/fe3ac17c-18c6-4b2e-9490-176b9099db5b" width=115><br><sub>| 🙋🏼‍♂️ Allan Rodrigues dos Santos |</sub>](https://github.com/AllanR1991) 
-<!--
-- [<img src="https://github.com/Lucca-gOn/vitalhubteamwork/assets/22855740/f008e055-2819-4c87-a78d-130002ba2c6c" width=115><br><sub>| 🙋🏼‍♂️ 	Eduardo Alves |</sub>](https://github.com/edualvesgt)
 
-- https://github.com/edualvesgt
+- [<img src="https://avatars.githubusercontent.com/u/106753653?v=4" width=115><br><sub>| 🙋🏼‍♂️ 	Eduardo Alves |</sub>](https://github.com/edualvesgt)
 
-- [<img src="https://github.com/Lucca-gOn/vitalhubteamwork/assets/22855740/f008e055-2819-4c87-a78d-130002ba2c6c" width=115><br><sub>| 🙋🏼‍♂️ Lucas Gonçaolves Oliveira |</sub>](https://github.com/Lucca-gOn)
+- [<img src="https://avatars.githubusercontent.com/u/106611476?v=4" width=115><br><sub>| 🙋🏼‍♂️ Lucas Gonçaolves Oliveira |</sub>](https://github.com/lrlacerda)
  
-- [<img src="https://github.com/Lucca-gOn/vitalhubteamwork/assets/22855740/f008e055-2819-4c87-a78d-130002ba2c6c" width=115><br><sub>| 🙋🏼‍♂️ Lucas Gonçaolves Oliveira |</sub>](https://github.com/Lucca-gOn)
+- [<img src="https://avatars.githubusercontent.com/u/84160431?v=4" width=115><br><sub>| 🙋🏼‍♂️ Márcio Wagner Maurício Junior |</sub>](https://github.com/mwmjunior)
 
-- [<img src="https://github.com/Lucca-gOn/vitalhubteamwork/assets/22855740/f008e055-2819-4c87-a78d-130002ba2c6c" width=115><br><sub>| 🙋🏼‍♂️ Lucas Gonçaolves Oliveira |</sub>](https://github.com/Lucca-gOn)
--->
+- [<img src="https://avatars.githubusercontent.com/u/125273594?v=4" width=115><br><sub>| 🙋🏼‍♂️ Gabriel Demétrio |</sub>](https://github.com/GabrDeme)
 
 
 
