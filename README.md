@@ -39,10 +39,15 @@ Com o LiveFest, encontrar eventos é tão fácil quanto tocar na tela. Esteja vo
 
 ## Screenshots
 
+![Imagem do WhatsApp de 2024-11-10 à(s) 19 25 59_968b4779](https://github.com/user-attachments/assets/a0a87462-b53c-4944-9cb3-7b76980f9311)
 
+![Imagem do WhatsApp de 2024-11-10 à(s) 19 25 59_c60768a1](https://github.com/user-attachments/assets/4e70b4fa-503f-4fbd-a182-79ad3fedae44)
+![Imagem do WhatsApp de 2024-11-10 à(s) 19 25 59_8dfe8d40](https://github.com/user-attachments/assets/4291ffa6-7572-48e6-a548-77e725363949)
+![Imagem do WhatsApp de 2024-11-10 à(s) 19 25 59_6572b66a](https://github.com/user-attachments/assets/fefa4ad3-56ef-448e-8c02-e89ad471d77b)
 
+<!--
 ## Demonstração
-
+-->
 
 
 ## Recursos utilizados durante o desenvolvimento:
